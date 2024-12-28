@@ -1,7 +1,10 @@
 __pycache__/
 # Ignore all files in the folder
 netcdf/*
+shape_files/*
 
 # But do not ignore the folder itself
 !netcdf/
 !netcdf/.gitkeep
+!shape_files/
+!shape_files/.gitkeep
